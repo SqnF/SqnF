@@ -4,9 +4,9 @@
 
 ## Sobre mi
 
-Me llamo Santiago, pero todos me dicen San
-Tengo 22 años
-Vivo en Argentina
+Me llamo Santiago, pero todos me dicen San </br>
+Tengo 22 años </br>
+Vivo en Argentina </br>
 
 
 </p>
@@ -18,5 +18,3 @@ Vivo en Argentina
 </br>
 </br>
 </br>
-
-<a href="https://github.com/salwater"><img src="https://raw.githubusercontent.com/salwater/salwater/output/snake.svg" alt="Snake animation" /></a>
