@@ -1,6 +1,6 @@
 <p>
 </br>
-<img hight="-1000" width="450" alt="naruto" align="right" src="https://github.com/SqnF/SqnF/blob/main/assets/naruto.gif">
+<img alt="naruto" align="right" src="https://github.com/SqnF/SqnF/blob/main/assets/naruto.gif">
 
 # Sobre mi
 
