@@ -2,7 +2,7 @@
 </br>
 <img hight="-1000" width="450" alt="naruto" align="right" src="https://github.com/SqnF/SqnF/blob/main/assets/naruto.gif">
 
-## Sobre mi
+# Sobre mi
 
 Me llamo Santiago, pero todos me dicen San </br>
 Tengo 22 años </br>
