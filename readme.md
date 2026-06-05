@@ -1,7 +1,7 @@
 <p>
 </br>
 
-# Sobre mi
+# Sobre mi </br>
 
 <img alt="naruto" align="right" src="https://github.com/SqnF/SqnF/blob/main/assets/naruto.gif">
 
